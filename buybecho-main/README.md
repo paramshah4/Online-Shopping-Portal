@@ -2,7 +2,7 @@
 
 ## About this Project
 
-You can find all the detials of this project on [this post.](https://hashnode.com/draft/601e65261054fa16dadd89d8)
+The aim is to build a user-friendly website which helps students buy, sell or donate items efficiently in the College community. A person who no longer needs his/her product, can post the item on this portal with all the necessary details. A person who needs a product can login to the portal and find the available products in the institute itself. The owner and the consumer can contact each other with the mode they are comfortable in and complete the necessary transaction.
 
 --------------
 
