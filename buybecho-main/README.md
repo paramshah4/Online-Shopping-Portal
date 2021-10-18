@@ -55,4 +55,4 @@ Following `Tech Stack` would help me to build this prototype:
 - UI Library: [Chakra UI](https://chakra-ui.com/)
 - Image Storage : [Firebase Storage](https://firebase.google.com/docs/storage/web/start)
 - Server : [JSON Server](https://www.npmjs.com/package/json-server)
-- Deployment : [Vercel](http://vercel.com/)
+
